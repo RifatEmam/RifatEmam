@@ -1,7 +1,6 @@
-(https://scontent.fdac11-2.fna.fbcdn.net/v/t39.30808-6/447663612_3886972898291328_4294982035622647694_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeE1sIA9dcOkFi3S9FQK4coFheUorRGwk-aF5SitEbCT5iAcq-7ofpqrp3Su4483P-THHmfDhiA4FPukit_z4Jq0&_nc_ohc=7PtbWNtjq2AQ7kNvgHg2aMN&_nc_ht=scontent.fdac11-2.fna&oh=00_AYBQ5ABgBrCuJM4FCSCGtNTRsqpFtbyWeyt5B9NP6QiJ2Q&oe=66850FD7)
 ### Hi there 👋, I'm Mohammad Rifat Emam
 #### Future Software Developer
-![Future Software Developer]
+![Future Software Developer](https://scontent.fdac11-2.fna.fbcdn.net/v/t39.30808-6/447663612_3886972898291328_4294982035622647694_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeE1sIA9dcOkFi3S9FQK4coFheUorRGwk-aF5SitEbCT5iAcq-7ofpqrp3Su4483P-THHmfDhiA4FPukit_z4Jq0&_nc_ohc=7PtbWNtjq2AQ7kNvgHg2aMN&_nc_ht=scontent.fdac11-2.fna&oh=00_AYBQ5ABgBrCuJM4FCSCGtNTRsqpFtbyWeyt5B9NP6QiJ2Q&oe=66850FD7)
 
 Think programmers have an easy life? Try building and designing an app only to have the customer say: “oh, just a website is fine!”
 
