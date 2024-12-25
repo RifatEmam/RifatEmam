@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm Mohammad Rifat Emam
 
-##I am Odd! Because I am Number One(`~`).
+###I am Odd! Because I am Number One(`~`).
 
-##Future Software Developer.
+###Future Software Developer.
 
-##Think programmers have an easy life? Try building and designing an app only to have the customer say: “oh, just a website is fine!”
+###Think programmers have an easy life? Try building and designing an app only to have the customer say: “oh, just a website is fine!”
 
 Skills: c/ c+ / java
 
